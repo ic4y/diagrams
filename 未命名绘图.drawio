@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T14:44:54.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1ww5kjJuqWBHpN_Nfhzt" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T14:55:22.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zcop-EuwiH_3tibd9SnY" version="20.2.0" type="github">
   <diagram id="EtCYZmObK3fiuL2SrTsO" name="第 1 页">
-    <mxGraphModel dx="1395" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TIlVDAgi_fyK-r-m1-jm-285" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="711.5" y="3728.5" width="88.5" height="191.5" as="geometry" />
+        </mxCell>
         <mxCell id="TIlVDAgi_fyK-r-m1-jm-10" value="&lt;h1&gt;TaskExecutionServer 相关设计&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="490" height="130" as="geometry" />
         </mxCell>
@@ -494,7 +497,7 @@
           <mxGeometry x="339" y="3949" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TIlVDAgi_fyK-r-m1-jm-272" value="task1" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="727" y="3750" width="50" height="41" as="geometry" />
+          <mxGeometry x="730.75" y="3741" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TIlVDAgi_fyK-r-m1-jm-273" value="Run" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="TIlVDAgi_fyK-r-m1-jm-274" target="TIlVDAgi_fyK-r-m1-jm-276">
           <mxGeometry relative="1" as="geometry" />
@@ -514,8 +517,14 @@
         <mxCell id="TIlVDAgi_fyK-r-m1-jm-279" value="Call" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="TIlVDAgi_fyK-r-m1-jm-278" target="TIlVDAgi_fyK-r-m1-jm-272">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TIlVDAgi_fyK-r-m1-jm-278" value="thread1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="TIlVDAgi_fyK-r-m1-jm-278" value="thread" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="731" y="3850" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="TIlVDAgi_fyK-r-m1-jm-287" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="TIlVDAgi_fyK-r-m1-jm-286" target="TIlVDAgi_fyK-r-m1-jm-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIlVDAgi_fyK-r-m1-jm-286" value="task1" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3700" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
