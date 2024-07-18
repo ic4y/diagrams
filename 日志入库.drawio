@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T13:34:42.176Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="x8XqmJDkHTxO9u7cZYME" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T13:44:10.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h1PWOsrcw6g8b-sJclvG" version="24.4.9" type="github">
   <diagram name="第 1 页" id="8TyQ_WzbEVN8jgP6hKr9">
     <mxGraphModel dx="2084" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
         </mxCell>
         <UserObject label="https://hawkeye.zuoyebang.cc/d/qTENE-Wnz/ckafka-monitor?orgId=1" link="https://hawkeye.zuoyebang.cc/d/qTENE-Wnz/ckafka-monitor?orgId=1" id="jp1PTQuWplXu-e_FXXWB-91">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="90" y="1790" width="400" height="40" as="geometry" />
+            <mxGeometry x="80" y="1810" width="400" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="jp1PTQuWplXu-e_FXXWB-92" value="etl-ckafka&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -247,6 +247,24 @@
         </mxCell>
         <mxCell id="jp1PTQuWplXu-e_FXXWB-97" value="docker-kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="968" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jp1PTQuWplXu-e_FXXWB-98" value="nolg 150个。&amp;nbsp;&lt;br&gt;服务日志 550 龙湖 50 新链路11个&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="673" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jp1PTQuWplXu-e_FXXWB-99" value="https://datax.zuoyebang.cc/#/task-manage/task-list&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1773" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jp1PTQuWplXu-e_FXXWB-100" value="http://dataruku.zuoyebang.cc/#/task-manage/task-list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1838" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jp1PTQuWplXu-e_FXXWB-101" value="https://datax.zuoyebang.cc/#/task-manage/task-list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1528" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jp1PTQuWplXu-e_FXXWB-102" value="https://dataops.zuoyebang.cc/order/offline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1248" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jp1PTQuWplXu-e_FXXWB-103" value="https://datax.zuoyebang.cc/#/task-manage/task-list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="488" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
