@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:00:19.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sEuEAAw4RpNxbCJf3sec" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:02:54.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xaik9VEk9Cd9uVr5-KX5" version="24.7.1" type="github">
   <diagram name="第 1 页" id="8TyQ_WzbEVN8jgP6hKr9">
     <mxGraphModel dx="2021" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wiB2hXXT8YLIUVBHbSOu-2" value="作业算子不能增加并行度，只能增加上游分区数量，会导致下游分区数量也增加，并且需要下游kafka适用方需要周知" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wiB2hXXT8YLIUVBHbSOu-2" value="作业算子不能增加并行度，只能增加上游分区数量，会导致下游分区数量也增加，并且需要下游kafka适用方需要周知，周知下游只能统计消费组名，查询flink任务中的配置里是否存在这个用户组，如果是写在代码里的那么是找不到的。" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="498.5" y="1916" width="233" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wiB2hXXT8YLIUVBHbSOu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiB2hXXT8YLIUVBHbSOu-5" target="jp1PTQuWplXu-e_FXXWB-33">
